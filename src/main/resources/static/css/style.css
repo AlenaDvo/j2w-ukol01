@@ -1,4 +1,4 @@
-.image-container {
+.container {
     margin: 0px auto;
     position: relative;
     width: 900px;
@@ -6,19 +6,19 @@
     color: #222222;
 }
 
-.image-container img {
+.container img {
     position: absolute;
     margin-bottom: 15px;
 }
 
-.image-container .first-title {
+.container .first-title {
     position: absolute;
     top: 230px;
     left: 170px;
     font-size: 25px;
 }
 
-.image-container .second-title {
+.container .second-title {
     position: absolute;
     top: 260px;
     left: 170px;
